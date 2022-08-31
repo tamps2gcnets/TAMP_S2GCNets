@@ -7,7 +7,7 @@ import torch.nn as nn
 import argparse
 import configparser
 from datetime import datetime
-from MPGCNETs import MPGCRNCNN as Network
+from TAMPGCNETs import TAMPGCRNCNN as Network
 from Trainer import Trainer
 from TrainInits import init_seed
 from dataloader import get_topo_dataloader
