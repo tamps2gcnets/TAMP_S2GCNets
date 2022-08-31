@@ -1,4 +1,4 @@
-# TAMP-S2GCNets: Coupling Time-Aware Multipersistence Knowledge Representation with Spatio-Supra Graph Convolutional Networks for Time-Series Forecasting
+# TAMP-S2GCNets
 
 ### TAMP-S2GCNets
 
